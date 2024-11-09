@@ -13,7 +13,7 @@ npm install axios
 npm install react-native-dotenv
 npx expo install @react-native-async-storage/async-storage
 
-3. Environment Variable Configuration (Google Maps API Key)
+3.Environment Variable Configuration (Google Maps API Key)
 GOOGLE_MAPS_API_KEY=AIzaSyA96LWVndNZMxLLoysSoYtgSpDSCp9SJ8E
 
 4.Project Structure
